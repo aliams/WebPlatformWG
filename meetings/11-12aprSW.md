@@ -54,7 +54,7 @@
 
   <h3>Remote Participants</h3>
 
-<p>A webex meeting will be available, allowing connection either through webex' client, or by ordinary telephone. Details to be confirmed.</p>
+<p><strong><a href="https://join.microsoft.com/meet/alia/BDP3GS2B">Join Skype Meeting Online</a></strong><br>or <strong>join by phone</strong>: <a href="tel:+18883203585">+1 (888) 320-3585</a> - Conf ID: 415788341 (or <a href="https://join.microsoft.com/dialin">find a local number</a>)</p>
 
 <p>IRC channel: irc://irc.w3.org/#webapps</p>
 
